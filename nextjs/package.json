@@ -1,5 +1,5 @@
 {
-  "name": "sample-infra",
+  "name": "nextjs-sample",
   "version": "0.0.1",
   "description": "",
   "private": true,
@@ -23,7 +23,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
-    "@storybook/preset-create-react-app": "^1.5.1",
     "@storybook/addon-actions": "^5.3.5",
     "@storybook/addon-links": "^5.3.5",
     "@storybook/addons": "^5.3.5",

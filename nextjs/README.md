@@ -1,4 +1,4 @@
-# Next.js + Material-UI + Storybook + Jest + Typescript + Airbnb style + Prettier + ESLint で構築したサンプル
+# Typescript + Next JS + Material-UI + Storybook + Jest + Enzyme + Prettier + ESLint + Airbnb style で構築したサンプル
 
 ### 概要
 環境設定が非常にめんどくさかったので、どなたかの参考になればと公開します。
@@ -12,7 +12,7 @@ yarn install
 
 ### 実行
 
-開発環境モードで起動
+開発環境モードで起動。ホットリローディングが可能になる。
 ```bash
 yarn dev
 ```
