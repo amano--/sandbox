@@ -75,7 +75,7 @@ Elmでなにか作りたいなと思っていたので、これを機会にか�
 
 elm + tailwindcss は、どちらかといえば tailwindcss をつかった CSSの勉強目的なので、あとでこのコードをベースにして Blogっぽいレイアウトを試作してみようと思っている。
 
-## 備考
+#### その他情報
 
 以下は、調査過程のメモを雑記している。
 
@@ -84,4 +84,8 @@ elm + tailwindcss は、どちらかといえば tailwindcss をつかった CSS
   - 今現在どの静的サイトジェネレーターが人気かというのを一覧で見れる [ StaticGen ](https://jamstack.org/generators/) サイトもあります。
 
 のサイトが面白かった。静的サイトジェネレーターありすぎｗ
+
+[ Tailwind CSSでUIをマークアップしてく為の参考となるサイトまとめ ]( https://blog.nakamu.life/posts/tailwind-css-ui )
+
+[ 最小手数で始めるTailwind CSS ](https://tech.medpeer.co.jp/entry/better-tailwind-css)
 
