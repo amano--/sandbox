@@ -86,6 +86,7 @@ elm + tailwindcss は、どちらかといえば tailwindcss をつかった CSS
 のサイトが面白かった。静的サイトジェネレーターありすぎｗ
 
 [ Tailwind CSSでUIをマークアップしてく為の参考となるサイトまとめ ]( https://blog.nakamu.life/posts/tailwind-css-ui )
+  - ここで紹介されている [ tailwindcomponents - A free repository for community components using TailwindCSS ]( https://tailwindcomponents.com/ ) は、コンポーネント探しに役に立つと思う
 
 [ 最小手数で始めるTailwind CSS ](https://tech.medpeer.co.jp/entry/better-tailwind-css)
 
